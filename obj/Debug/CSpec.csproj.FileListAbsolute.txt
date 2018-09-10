@@ -1,0 +1,16 @@
+C:\Users\timun\source\repos\CSpec\CSpec\bin\Debug\CSpec.dll
+C:\Users\timun\source\repos\CSpec\CSpec\bin\Debug\CSpec.pdb
+C:\Users\timun\source\repos\CSpec\CSpec\bin\Debug\Castle.Core.dll
+C:\Users\timun\source\repos\CSpec\CSpec\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\timun\source\repos\CSpec\CSpec\bin\Debug\System.ValueTuple.dll
+C:\Users\timun\source\repos\CSpec\CSpec\bin\Debug\Castle.Core.xml
+C:\Users\timun\source\repos\CSpec\CSpec\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\timun\source\repos\CSpec\CSpec\bin\Debug\System.ValueTuple.xml
+C:\Users\timun\source\repos\CSpec\CSpec\obj\Debug\CSpec.csprojAssemblyReference.cache
+C:\Users\timun\source\repos\CSpec\CSpec\obj\Debug\CSpec.csproj.CoreCompileInputs.cache
+C:\Users\timun\source\repos\CSpec\CSpec\obj\Debug\CSpec.csproj.CopyComplete
+C:\Users\timun\source\repos\CSpec\CSpec\obj\Debug\CSpec.dll
+C:\Users\timun\source\repos\CSpec\CSpec\obj\Debug\CSpec.pdb
+C:\Users\timun\source\repos\CSpec\CSpec\bin\Debug\Newtonsoft.Json.dll
+C:\Users\timun\source\repos\CSpec\CSpec\bin\Debug\Newtonsoft.Json.xml
+C:\Users\timun\source\repos\CSpec\CSpec\bin\Debug\CSpec.dll.config
